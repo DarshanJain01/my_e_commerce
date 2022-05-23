@@ -148,7 +148,7 @@ const FilterComponent = (props) => {
               setPrice(value)
             }}
           />
-            {/* <Slider
+            {/* <SliderN
               value={slider}
               className="inpu"
               onChange={(value) => {
